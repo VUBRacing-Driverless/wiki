@@ -1,0 +1,6 @@
+site_name: VUBRacing Driverless Wiki
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: readthedocs
