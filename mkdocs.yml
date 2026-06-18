@@ -1,6 +1,10 @@
 site_name: VUBRacing Driverless Wiki
 nav:
-  - Home: index.md
-  - About: about.md
+  - Home: home.md
+  - Onboarding: onboarding.md
+  - Software: software.md
+  - Hardware: hardware.md
+  - Processes: processes.md
+  - References: references.md
 
 theme: readthedocs

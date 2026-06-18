@@ -1,6 +1,4 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Welcome to the Driverless Wiki
 
 ## Commands
 
